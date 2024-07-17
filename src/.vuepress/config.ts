@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/Curriculum-Vitae/",
 
   lang: "zh-CN",
-  title: "文档演示",
+  title: "首页",
   description: "vuepress-theme-hope 的文档演示",
 
   theme,
